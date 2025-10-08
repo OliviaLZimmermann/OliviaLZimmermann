@@ -12,3 +12,8 @@
    </div>   
 ##
 ### Você também pode me encontrar em:
+ <div style="display: incline">
+&nbsp;<a href="www.linkedin.com/in/olívia-lacort-zimmermann-b61510337">
+  <img width='50' height='20' src=”![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)” />
+</div>
+</a>&nbsp;
