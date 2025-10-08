@@ -7,7 +7,7 @@
 - 🤔 Atualmente estou focada em fazer cursos para me aprofundar mais ainda em algumas linguagens de programação e aumentar meus conhecimentos na parte aeroespacial.
 - ⚡ Estou entusiasmada em aprender essas linguagens de programação:
   <div style="display: incline">
-            <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+            <img width='50' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
             <img width='45' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" />
    </div>   
 ##
