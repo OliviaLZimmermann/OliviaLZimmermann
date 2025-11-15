@@ -16,3 +16,6 @@
      <a href="https://www.linkedin.com/in/ol%C3%ADvia-lacort-zimmermann-b61510337" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href = "mailto:olivialzimmermann@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.youtube.com/@OliviaLacortZimmermann-r1o" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+##
+### 💻 Visite meu portfólio visual! [Clique aqui para ver meu site!](https://portifólioolzim.my.canva.site/portif-lio)
