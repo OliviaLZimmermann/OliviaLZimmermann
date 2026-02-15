@@ -3,12 +3,15 @@
 
 
 - 🔭 Estudante de **Engenharia de Software** na UniCEUB, com interesse na **área de tecnologia aeroespacial**.
+- 🖥️ Atualmente trabalho como estágiaria em desenvolvimento de sistemas, usando a linguagem PHP.
 - 🌱 Aqui irei trazer alguns **projetos** da faculdade e até mesmo **colaborações** com colegas.
-- 🤔 Atualmente estou focada em fazer cursos para me aprofundar mais ainda em algumas linguagens de programação e aumentar meus conhecimentos na parte aeroespacial.
+- 🤔 Atualmente estou focada em fazer cursos para me aprofundar mais ainda em algumas linguagens de programação e aumentar meus conhecimentos na parte espacial.
 - ⚡ Estou entusiasmada em aprender essas linguagens de programação:
   <div style="display: incline">
             <img width='50' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
             <img width='45' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" />
+            <img width='60' height='55' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+          
    </div>   
 ##
 ### Você também pode me encontrar em:
